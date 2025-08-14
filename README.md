@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/35ca42a0-f218-48e2-915f-f63728beb290" alt="Hüseyin Kıran | Android Developer" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Hüseyin</h1>
 <h3 align="center">Android Developer | Kotlin & Java | Clean Architecture</h3>
 
