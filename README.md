@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Hüseyin</h1>
-<h3 align="center">Android Developer | Kotlin & Java | Clean Architecture Enthusiast</h3>
+<h3 align="center">Android Developer | Kotlin & Java | Clean Architecture</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/huseyinkiran34/">
